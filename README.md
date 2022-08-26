@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jimmy Kyalo</h1>
 <h3 align="center">Fullstack Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jimmykyalo&label=Profile%20views&color=0e75b6&style=flat" alt="jimmykyalo" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimmykyalo" alt="jimmykyalo" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [https://github.com/jimmykyalo?tab=repositories](https://github.com/jimmykyalo?tab=repositories)
 
 - 💬 Ask me about **react, django, javascript, python, css**
@@ -17,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimmykyalo&show_icons=true&locale=en&layout=compact" alt="jimmykyalo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimmykyalo&show_icons=true&locale=en" alt="jimmykyalo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jimmykyalo&" alt="jimmykyalo" /></p>

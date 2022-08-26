@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jimmy Kyalo</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimmykyalo" alt="jimmykyalo" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/jimmykyalo](https://github.com/jimmykyalo)
+- 👨‍💻 All of my projects are available at [https://github.com/jimmykyalo?tab=repositories](https://github.com/jimmykyalo?tab=repositories)
 
 - 💬 Ask me about **react, django, javascript, python, css**
 
@@ -19,4 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimmykyalo&show_icons=true&locale=en&layout=compact" alt="jimmykyalo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimmykyalo&show_icons=true&locale=en" alt="jimmykyalo" /></p>
-
